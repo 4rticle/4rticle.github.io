@@ -1,2 +1,2 @@
 # 4rticle.github.io
-Are you reading this? 
+A public but anonymous journal of an individual from the planet Earth.
